@@ -1,0 +1,14 @@
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\bin\Debug\net8.0\Day_14.exe
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\bin\Debug\net8.0\Day_14.deps.json
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\bin\Debug\net8.0\Day_14.runtimeconfig.json
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\bin\Debug\net8.0\Day_14.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\bin\Debug\net8.0\Day_14.pdb
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.AssemblyInfoInputs.cache
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.AssemblyInfo.cs
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\refint\Day_14.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.pdb
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\Day_14.genruntimeconfig.cache
+D:\Projects\Dot Net Practice\DotNet-Practice\Day_14\Day_14\obj\Debug\net8.0\ref\Day_14.dll
