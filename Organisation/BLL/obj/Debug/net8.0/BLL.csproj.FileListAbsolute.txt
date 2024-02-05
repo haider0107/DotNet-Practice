@@ -1,0 +1,12 @@
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\bin\Debug\net8.0\BLL.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\bin\Debug\net8.0\BLL.pdb
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.sourcelink.json
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\BLL.pdb
+D:\Projects\Dot Net Practice\DotNet-Practice\Organisation\BLL\obj\Debug\net8.0\ref\BLL.dll
