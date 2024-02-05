@@ -60,7 +60,7 @@ class Customer //Base
         _Name = Name;
         _Email = Email;
     }
-    public virtual void Details()
+    public virtual void Details() // virtual is need to override a method
     {
         Console.WriteLine(_Id);
         Console.WriteLine(_Name);
