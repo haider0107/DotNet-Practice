@@ -1,0 +1,15 @@
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\bin\Debug\net8.0\Hello World.exe
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\bin\Debug\net8.0\Hello World.deps.json
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\bin\Debug\net8.0\Hello World.runtimeconfig.json
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\bin\Debug\net8.0\Hello World.dll
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\bin\Debug\net8.0\Hello World.pdb
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfoInputs.cache
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.AssemblyInfo.cs
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.csproj.CoreCompileInputs.cache
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.sourcelink.json
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.dll
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\refint\Hello World.dll
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.pdb
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\Hello World.genruntimeconfig.cache
+D:\Project\DotNet Practice\DotNet-Practice\EF core\Hello World\Hello World\obj\Debug\net8.0\ref\Hello World.dll
