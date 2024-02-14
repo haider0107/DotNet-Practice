@@ -1,0 +1,12 @@
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\bin\Debug\net6.0\BOL.deps.json
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\bin\Debug\net6.0\BOL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\bin\Debug\net6.0\ref\BOL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\bin\Debug\net6.0\BOL.pdb
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.csproj.AssemblyReference.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.AssemblyInfoInputs.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.AssemblyInfo.cs
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.csproj.CoreCompileInputs.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\ref\BOL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\BOL\obj\Debug\net6.0\BOL.pdb

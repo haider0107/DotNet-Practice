@@ -1,0 +1,17 @@
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\DAL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\ref\DAL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\DAL.pdb
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\BOL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\bin\Debug\net6.0\BOL.pdb
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\ref\DAL.dll
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.pdb
+E:\Bootcamp 8\EF Core\SelectInDepth\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
